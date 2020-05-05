@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="60%"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="85%"></a>
 </h1>
 
        
@@ -41,7 +41,9 @@ AGPL-3.0
 
 ## You may also like...
 
-- [Ropensky](https://github.com/luisgasco/Ropensky) - R library to get data from OpenSky Network API.
+
+- [openskyr](https://github.com/luisgasco/openskyr) - R library to get data from OpenSky Network API.
+- [Noytext](https://github.com/luisgasco/noytext) - A web-based platform for annotating short-text documents to be used in applied text-mining based research.
 
 ---
 
