@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="85%"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="93%"></a>
 </h1>
 
        
