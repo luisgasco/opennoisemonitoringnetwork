@@ -1,8 +1,6 @@
-# Open Noise Monitoring Network
-
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="100%"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="60%"></a>
 </h1>
 
        
