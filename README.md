@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="NOT_CREATED_YET/"><img src="https://github.com/luisgasco/opennoisemonitoringnetwork/aux/Logo_ONMN_temporal.png?raw=true" alt="ONMN_Logo" width="100%"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/luisgasco/opennoisemonitoringnetwork/master/aux/Logo_ONMN_temporal.png" alt="ONMN_Logo" width="100%"></a>
 </h1>
 
        
