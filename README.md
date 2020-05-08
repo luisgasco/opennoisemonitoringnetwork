@@ -22,6 +22,7 @@ TBD
 A platform that aggregates city noise data and allows it to be visualised and downloaded for resarch/analysis (in construction)
 In this project, we gather and aggregate noise data coming from Noise Monitoring Networks published in Open Data platforms.
 
+Open Noise Monitoring Network is developing a set of connectors to several open data platforms in order to acquire, standardize, and store the  environmental noise data, to provide them to stakeholders.
 
 <!---More examples of readmes: https://github.com/amitmerchant1990/electron-markdownify https://github.com/aimeos/aimeos-typo3 )-->
 
